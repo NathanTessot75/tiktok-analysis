@@ -1,3 +1,9 @@
 .ipynb_checkpoints/
 __pycache__/
 .DS_Store
+report/scripts/results.json
+*.aux
+*.log
+*.out
+*.fdb_latexmk
+*.fls
